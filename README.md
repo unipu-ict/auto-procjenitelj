@@ -3,7 +3,7 @@
 
 ### Autori (2017./2018.)
 - **Vuk Antonio** (anvuk@unipu.hr)
-- **Sinižić Sebastian**	(ssinozic@unipu.hr)
+- **Sinožić Sebastian**	(ssinozic@unipu.hr)
 
 ### Organizacija
 [Sveučilište Jurja Dobrile u Puli](http://www.unipu.hr/)   
